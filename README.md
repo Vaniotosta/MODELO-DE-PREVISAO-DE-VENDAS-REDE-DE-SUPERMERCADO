@@ -1,4 +1,4 @@
-# MODELO-DE-PREVISAO-DEVENDAS-DE-DE-REDE-DE-SUPERMERCADO
+# MODELO-DE-PREVISAO-DE VENDASDEREDE-DE-SUPERMERCADO
 INTRODUÇÃO
 
 Um dos grandes desafios dos iniciantes em aprendizado de máquinas é entender as etapas da construção de um modelo.Sendo assim, este projeto tem o objetivo de construir um modelo de previsão de vendas, demonstrando as etapas do projeto de caráter educativo e de treinamento. O problema do negócio busca prever as quantidades de vendas por loja com base nos dados históricos que abrangem as vendas de 2010-02-05 a 2012-11-01, nos quais você encontrará os seguintes campos:
